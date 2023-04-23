@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Container&lt;T&gt;" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAQAAACAAQAEAICAAAAAAAAAAAACAAAgEAACQAA=</HashCode>
+      <FileName>Container.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Iterator&lt;T&gt;" Collapsed="true">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggACACAIAAAAAAQAAAQAAQIAAAAAAAAAAgkAIAAIA=</HashCode>
+      <FileName>Iterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArrayList&lt;T&gt;" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAgAAAAAQAACACAAAAAAAAAAAACAACAEAIAAAA=</HashCode>
+      <FileName>ArrayList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LinkedList&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAABABAAAQAAAACABAAAAAAAAAACQAAAEAIAAAA=</HashCode>
+      <FileName>LinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractArrayIterator&lt;T&gt;" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggAAAAAAAAAAAAAAAgQAAAMAgAAAAAAAAAgAIAAoA=</HashCode>
+      <FileName>AbstractArrayIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArrayIterator&lt;T&gt;" Collapsed="true">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAIAAAAAIAAAAAAAAQAAAIAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>ArrayIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReverseArrayIterator&lt;T&gt;" Collapsed="true">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAAAAAAAAAAAAAAQAAAIAAAAAAAgAAAgAAAAAA=</HashCode>
+      <FileName>ReversedArrayIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractListIterator&lt;T&gt;" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACggAAAAAAAAAAQAAAEAQAAAIAAAAAAEQAAAhAAAgoA=</HashCode>
+      <FileName>AbstractListIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListIterator&lt;T&gt;" Collapsed="true">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAIAAQAAAAAAAAQAAAIAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>ListIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReverseListIterator&lt;T&gt;" Collapsed="true">
+    <Position X="6.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAEQAAAIAAAAEAAAAAAgAAAAAA=</HashCode>
+      <FileName>ReversedListIterator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
